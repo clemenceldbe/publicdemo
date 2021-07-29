@@ -1,0 +1,101 @@
+{
+    "name": "Territoire Demo",
+    "employees": [
+        {
+            "name": "Lorem Ipsum",
+            "image": "Lorem_IPSUM",
+            "type": 1,
+            "departments": [
+                {
+                    "code": 72,
+                    "name": "Sarthe"
+                }
+            ],
+            "idAgencyShop": 0
+        },
+        {
+            "name": "Lorem Ipsum",
+            "image": "Lorem_IPSUM",
+            "type": 1,
+            "departments": [
+                {
+                    "code": 72,
+                    "name": "Sarthe"
+                }
+            ],
+            "idAgencyShop": 0
+        },
+        {
+            "name": "Lorem Ipsum",
+            "image": "Lorem_IPSUM",
+            "type": 2,
+            "departments": [
+                {
+                    "code": 37,
+                    "name": "Indre-et-Loire"
+                },
+                {
+                    "code": 41,
+                    "name": "Loir-et-Cher"
+                },
+                {
+                    "code": 72,
+                    "name": "Sarthe"
+                }
+            ],
+            "idAgencyShop": 0
+        },
+        {
+            "name": "Lorem Ipsum",
+            "image": "Lorem_IPSUM",
+            "type": 1,
+            "departments": [
+                {
+                    "code": 45,
+                    "name": "Loiret"
+                }
+            ],
+            "idAgencyShop": 0
+        },
+        {
+            "name": "Lorem Ipsum",
+            "image": "Lorem_IPSUM",
+            "type": 0,
+            "departments": [
+                {
+                    "code": 28,
+                    "name": "Eure-et-Loir"
+                },
+                {
+                    "code": 45,
+                    "name": "Loiret"
+                }
+            ],
+            "idAgencyShop": 0
+        }
+    ],
+    "agencies": [
+        {
+            "idAgency": 10,
+            "name": "Magasin",
+            "address": "7 Rue De la Demo",
+            "postalCode": 28000,
+            "city": "Ville Demo Magasin",
+            "phone": "02 00 00 00 00",
+            "status": 4,
+            "departmentCode": "41",
+            "departmentName": "Loir-et-Cher"
+        },
+        {
+            "idAgency": 10,
+            "name": "Siège",
+            "address": "55 Avenue De la Demo",
+            "postalCode": 41000,
+            "city": "Ville Demo Siège",
+            "phone": "02 00 00 00 00",
+            "status": 4,
+            "departmentCode": "28",
+            "departmentName": "Eure-et-Loir"
+        }
+    ]
+}
